@@ -39,9 +39,12 @@ Major
     feat: init
     BREAKING CHANGE: change license
 
-then excute: "npm run release" 
+then excute in any commit: "npm run release" 
 
 second commit:
 Minor
     1. feat(my-operation): allow users to provide an optional name to override the default
     2. feat: add operation to retrieve sub-records
+
+thirth commit:
+    1. fix: remove the infinite loop
