@@ -1,0 +1,20 @@
+{
+  "name": "change-log",
+  "version": "1.0.0",
+  "description": "change log",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard-version": "^9.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release":"standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-mostafaolyai:mostafaolyai/change-log.git"
+  },
+  "author": "",
+  "license": "ISC"
+}

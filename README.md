@@ -38,3 +38,5 @@ first commit:
 Major
     feat: init
     BREAKING CHANGE: change license
+
+then excute: "npm run release"
