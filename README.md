@@ -54,3 +54,4 @@ Patch
 forth commit:
 N/A
     1. test: refactor user management test cases
+    2. ci: point to the new registry
