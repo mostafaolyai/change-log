@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.2.0](https://github-mostafaolyai/mostafaolyai/change-log/compare/v3.1.0...v3.2.0) (2022-02-27)
+
+
+### Features
+
+* add operation to retrieve sub-records ([d5acbe2](https://github-mostafaolyai/mostafaolyai/change-log/commit/d5acbe2f581546d5386d940121cb9d50a677cceb))
+
 ## [3.1.0](https://github-mostafaolyai/mostafaolyai/change-log/compare/v3.0.0...v3.1.0) (2022-02-27)
 
 
