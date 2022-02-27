@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.2.1](https://github-mostafaolyai/mostafaolyai/change-log/compare/v3.2.0...v3.2.1) (2022-02-27)
+
+
+### Bug Fixes
+
+* remove the infinite loop ([9a7cb24](https://github-mostafaolyai/mostafaolyai/change-log/commit/9a7cb244b46d277c050a1f8584ebb85192a59380))
+
 ## [3.2.0](https://github-mostafaolyai/mostafaolyai/change-log/compare/v3.1.0...v3.2.0) (2022-02-27)
 
 
