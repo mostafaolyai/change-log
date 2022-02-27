@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.2.2](https://github-mostafaolyai/mostafaolyai/change-log/compare/v3.2.1...v3.2.2) (2022-02-27)
+
+
+### Bug Fixes
+
+* **my-operation:** handle null input field ([7fc6ea2](https://github-mostafaolyai/mostafaolyai/change-log/commit/7fc6ea248437f793697e287effe5bcc3c5f0bda1))
+
 ### [3.2.1](https://github-mostafaolyai/mostafaolyai/change-log/compare/v3.2.0...v3.2.1) (2022-02-27)
 
 
