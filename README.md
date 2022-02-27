@@ -44,3 +44,4 @@ then excute: "npm run release"
 second commit:
 Minor
     1. feat(my-operation): allow users to provide an optional name to override the default
+    2. feat: add operation to retrieve sub-records
