@@ -48,3 +48,4 @@ Minor
 
 thirth commit:
     1. fix: remove the infinite loop
+    2. fix(my-operation): handle null input field
