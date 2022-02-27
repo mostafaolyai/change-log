@@ -40,3 +40,7 @@ Major
     BREAKING CHANGE: change license
 
 then excute: "npm run release" 
+
+second commit:
+Minor
+    1. feat(my-operation): allow users to provide an optional name to override the default
