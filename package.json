@@ -1,6 +1,6 @@
 {
   "name": "change-log",
-  "version": "3.2.2",
+  "version": "3.2.3",
   "description": "change log",
   "main": "index.js",
   "dependencies": {},
