@@ -47,5 +47,10 @@ Minor
     2. feat: add operation to retrieve sub-records
 
 thirth commit:
+Patch
     1. fix: remove the infinite loop
     2. fix(my-operation): handle null input field
+
+forth commit:
+N/A
+    1. test: refactor user management test cases
