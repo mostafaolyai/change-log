@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.1.0](https://github-mostafaolyai/mostafaolyai/change-log/compare/v3.0.0...v3.1.0) (2022-02-27)
+
+
+### Features
+
+* **add-minor-commit:** allow users to provide an optional name to override the default ([ffbaa8e](https://github-mostafaolyai/mostafaolyai/change-log/commit/ffbaa8e4b13910e77b5c5f2795e6a219a6f28e8d))
+
 ## 3.0.0 (2022-02-27)
 
 
