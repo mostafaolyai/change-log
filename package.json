@@ -1,6 +1,6 @@
 {
   "name": "change-log",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "change log",
   "main": "index.js",
   "dependencies": {},
@@ -9,7 +9,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release":"standard-version"
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
